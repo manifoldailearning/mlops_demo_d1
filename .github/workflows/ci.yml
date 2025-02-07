@@ -1,4 +1,4 @@
-name: CI pipeline day 12
+name: CI pipeline day 1
 
 on:
   push:
