@@ -9,7 +9,7 @@ on:
       - main  # Trigger the workflow on pull request to the main branch
 
 env:
-  REPOSITORY_NAME: day1-demo  # Name of the Docker repository
+  REPOSITORY_NAME: DasunNayanajith_v1  # Name of the Docker repository
   IMAGE_TAG: latest  # Tag for the Docker image
 
 jobs:
